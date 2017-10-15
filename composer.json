@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Gettext\\": "src/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
